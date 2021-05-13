@@ -6,3 +6,6 @@ rencana website kedai mancing
 -pemesanan makanan online sendiri
  * membantu konsumen dan kedai untuk mengetahui dan mempermudah pemesanan secara online lebih cepat, karena dilakukan langsung terhadap konsumen - kedai (tanpa perantara)
  -pembuatan sistem database pengurusan kedai
+ * database akan lebih bagus jika dibuat dengan penyimpanan yang besar dan mudah untuk di perbaiki seperti PostGreSQL
+ -pembuatan aplikasi gudang untuk menunjang kinerja dari kedai
+ 
