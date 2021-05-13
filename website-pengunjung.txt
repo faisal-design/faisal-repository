@@ -8,4 +8,5 @@ rencana website kedai mancing
  -pembuatan sistem database pengurusan kedai
  * database akan lebih bagus jika dibuat dengan penyimpanan yang besar dan mudah untuk di perbaiki seperti PostGreSQL
  -pembuatan aplikasi gudang untuk menunjang kinerja dari kedai
+ * menggunakan python dan beberapa alat penunjang seperti tablet, finger scanner dan print portable
  
