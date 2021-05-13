@@ -5,3 +5,4 @@ rencana website kedai mancing
  * memberikan kesempatan kepada konsumen untuk merasakan kenikmatan makan di kedai mancing tanpa harus menunggu lama dan ditolak akibat penuhnya kursi
 -pemesanan makanan online sendiri
  * membantu konsumen dan kedai untuk mengetahui dan mempermudah pemesanan secara online lebih cepat, karena dilakukan langsung terhadap konsumen - kedai (tanpa perantara)
+ -pembuatan sistem database pengurusan kedai
