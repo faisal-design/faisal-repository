@@ -1,0 +1,7 @@
+rencana website kedai mancing
+-website konsumen
+ * memberikan konsumen gambaran tentang rumah makan kedai mancing beserta isi nya
+-pemesanan kursi
+ * memberikan kesempatan kepada konsumen untuk merasakan kenikmatan makan di kedai mancing tanpa harus menunggu lama dan ditolak akibat penuhnya kursi
+-pemesanan makanan online sendiri
+ * membantu konsumen dan kedai untuk mengetahui dan mempermudah pemesanan secara online lebih cepat, karena dilakukan langsung terhadap konsumen - kedai (tanpa perantara)
